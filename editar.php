@@ -46,7 +46,7 @@ exit;
 <br><br>
 <input type="tel" placeholder="telefone" name="tel" value="<?=$info['tel'];?>" pattern="[0-9]{11}">
 <br><br>
-<input type="dadte"  name="idade" value="<?=$info['idade'];?>">
+<input type="date"  name="idade" value="<?=$info['idade'];?>">
 <br><br>
 
 <button type="submit">salvar</button>
